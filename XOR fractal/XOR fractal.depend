@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659996467 source:e:\programação\c++\bgi\fractals\xor fractal\main.cpp
+	<graphics.h>
+	<stdio.h>
+
