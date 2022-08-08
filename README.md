@@ -1,5 +1,5 @@
 # XOR-Fractal ✨
-XOR Fractal made in C with BGI
+XOR Fractal made in C++ with BGI
 
 # Features
 Choose a number of <b>MAX ITERATIONS</b> and multiply it to any numbers that you want.
