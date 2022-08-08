@@ -1,7 +1,7 @@
-# XOR-Fractal
+# XOR-Fractal ✨
 XOR Fractal made in C with BGI
 
-# Screenshots
+# Screenshots 📷
 ![GitHub Logo](/Screenshots/Screenshot_1.png)
 ![GitHub Logo](/Screenshots/Screenshot_2.png)
 ![GitHub Logo](/Screenshots/Screenshot_3.png)
